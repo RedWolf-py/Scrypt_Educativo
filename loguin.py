@@ -17,13 +17,13 @@ print(''' \033[31m
 ........................
 ======= \033[33mRedWolf\033[31m ========\033[m''')
 
-print('\033[32mAcessando Dados, Com Direito Root !!! ')
+print('\033[32mTentando Acessar os Dados !!! ')
 sleep(2.0)
 print('Acesso Root Negado !!! ')
 sleep(2.0)
-print('Acessando Remotamente,Servidor On-Line')
+print('Acessando Remotamente, O computador')
 sleep(3.0)
-print('Conexão Completada !!!\nCopiando Dados Para o Servidor\n\033[31m••••• Aguarde !!!•••••\033[m')
+print('Conexão Completa !!!\nCopiando Dados Para o Servidor\n\033[31m••••• Aguarde !!!•••••\033[m')
 sleep(2.0)
 for x in range(0, 101, 10):
 	print(f'\033[32mCopiando...{x}%')
@@ -31,5 +31,5 @@ for x in range(0, 101, 10):
 	
 print('\033[31m°°°°°  ✓ Dados Copiado com Sucesso!!! °°°°°\033[m')
 sleep(3.0)
-print('\033[34m\nFoi Só uma brincadeira, pra te alerta a no\nabrir codigo sem antes abrir no seu terminal, ou origem desconhecida !!!! ')
+print('\033[34m\nFoi Só uma brincadeira, para você ficar alerta e não \nabrir quaquer código de origem desconhecida !!!! ')
 
